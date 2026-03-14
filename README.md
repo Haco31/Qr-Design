@@ -15,7 +15,7 @@ The goal was to recreate a QR code component using only HTML and CSS, focusing o
 
 You can view the project here:
 
-[View Project](#)
+[View Project](https://haco31.github.io/Qr-Design/)
 
 ---
 
